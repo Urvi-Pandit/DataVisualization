@@ -1,0 +1,116 @@
+title{
+    font-family: "Bree Serif";
+
+}
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#title{
+    background: linear-gradient(-135deg, rgb(174, 83, 198), #000000);
+    color: white;
+    padding-bottom: 3rem;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 35px;
+    font-family: 'Montserrat';
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.front{
+    margin-top: 1rem;
+}
+.laptop-img{
+    padding-top: 3em;
+    padding-left: 3em;
+    width: 120%;
+    
+}
+.navbar{
+    
+    font-family: "Montserrat";
+    size: 1rem;
+    line-height: 1;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.container-fluid{
+    padding: 1% 15%;
+}
+.left-side{
+    position:absolute;
+    right: 0;
+}
+.btn{
+    font-family: "montserrat";
+   
+}
+.download-btn{
+    margin: 0px 3% 5% 0;
+}
+.navbar-brand{
+    font-family:"ubuntu";
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: "ubuntu";
+    font-weight:500;
+}
+.images-2nd{
+    text-align: center;
+    padding: 5%;
+}
+#features{
+    padding: 10% 10% 2% 10%;
+}
+h3{
+    font-family: "montserrat";
+    padding-top: 1rem;
+}
+.images-2nnd{
+    text-align: center;
+    padding: 5% 2% 5%;
+}
+p{
+    color: #8f8f8f;
+}
+.icon{
+    color: #864fc5  ;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#why-visualize{
+   padding: 2% 20%;
+   text-align: center;
+}
+.graph{
+    text-align: center;
+}
+.icon1{
+    float: left;
+    color: black  ;
+    line-height: 1.5;
+}
+.icon1:hover{
+    color: #ff4c68;
+}
+.icon2{
+    float: right;
+    color: black  ;
+    line-height: 1.5;
+}
+.icon2:hover{
+    color: #ff4c68;
+}
+#why-visualize{
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+}
+#how{
+    padding-top: 10%;
+}
